@@ -1,0 +1,3 @@
+D:/2023 Projects/MicroComputer Game/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/2023 Projects/MicroComputer Game/cmake-build-debug/CMakeFiles/MicroComputer_Game.dir
+D:/2023 Projects/MicroComputer Game/cmake-build-debug/CMakeFiles/edit_cache.dir
